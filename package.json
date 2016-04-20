@@ -1,0 +1,14 @@
+{
+    "name": "node-todo",
+    "version": "0.0.0",
+    "description": "FutureFly Web",
+    "main": "server.js",
+    "author": "Patrik Gonda",
+    "dependencies": {
+        "body-parser": "^1.15.0",
+        "express": "^4.13.4",
+        "method-override": "^2.3.5",
+        "mongoose": "^4.4.12",
+        "morgan": "^1.7.0"
+    }
+}
